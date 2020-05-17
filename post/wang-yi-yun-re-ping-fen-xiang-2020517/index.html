@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>通知 | WanCn的博客</title>
+<title>网易云热评分享2020.5.17 | WanCn的博客</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
@@ -12,13 +12,22 @@
 <link rel="stylesheet" href="https://wancnoffical.github.io/styles/main.css">
 
 
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
-    <meta name="description" content="分享·心得·真实">
+    <meta name="description" content="音乐：When your lips  are so close
+
+..." />
+    <meta name="keywords" content="音乐" />
   </head>
   <body>
     <div id="app" class="main">
@@ -88,53 +97,47 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          <h2 class="current-tag">标签: 通知</h2>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://wancnoffical.github.io/post/jin-ji-tong-zhi/">
-                  <h2 class="post-title">紧急通知⚠️</h2>
-                </a>
-                <div class="post-date">
-                  2020-05-16
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
+          <div class="post-detail">
+            <h2 class="post-title">网易云热评分享2020.5.17</h2>
+            <div class="post-date">2020-05-17</div>
+            
+              <div class="feature-container" style="background-image: url('https://wancnoffical.github.io/post-images/wang-yi-yun-re-ping-fen-xiang-2020517.jpg')">
               </div>
-              
-                <a class="right" href="https://wancnoffical.github.io/post/jin-ji-tong-zhi/">
-                  <div class="feature-container" style="background-image: url('https://wancnoffical.github.io/post-images/jin-ji-tong-zhi.jpg')">
-                  </div>
-                </a>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://wancnoffical.github.io/post/about/">
-                  <h2 class="post-title">关于</h2>
-                </a>
-                <div class="post-date">
-                  2020-05-16
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-                <a class="right" href="https://wancnoffical.github.io/post/about/">
-                  <div class="feature-container" style="background-image: url('https://wancnoffical.github.io/post-images/about.PNG')">
-                  </div>
-                </a>
-              
-            </article>
-          
+            
+            <div class="post-content" v-pre>
+              <p>音乐：When your lips  are so close<br>
+<img src="https://wancnoffical.github.io/post-images/1589683718958.JPG" alt="" loading="lazy"></p>
 
-          <div class="pagination-container">
-  
-  
-</div>
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://wancnoffical.github.io/tag/jwsDsPiQU/" class="tag">
+                    音乐
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://wancnoffical.github.io/post/jin-ji-tong-zhi/">
+                  <h3 class="post-title">
+                    紧急通知⚠️
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
 
         </div>
       </div>
@@ -155,6 +158,29 @@ var app = new Vue({
 </script>
 
 
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'e5ed0d5f8c4a85060e7c',
+        clientSecret: 'fa2c6da6850e2acc71b355ebf5a9f19ab2a70127',
+        repo: 'BLOG',
+        owner: 'WanCnoffical',
+        admin: ['WanCnoffical'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 

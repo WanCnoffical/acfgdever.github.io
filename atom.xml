@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://acfg.github.io</id>
-    <title>WanCn的博客</title>
-    <updated>2020-05-31T09:47:11.636Z</updated>
+    <title>A中文字幕组官方社区</title>
+    <updated>2020-05-31T09:47:44.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://acfg.github.io"/>
     <link rel="self" href="https://acfg.github.io/atom.xml"/>
-    <subtitle>分享·心得·真实</subtitle>
+    <subtitle>ACFG</subtitle>
     <logo>https://acfg.github.io/images/avatar.png</logo>
     <icon>https://acfg.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, WanCn的博客</rights>
+    <rights>All rights reserved 2020, A中文字幕组官方社区</rights>
 </feed>

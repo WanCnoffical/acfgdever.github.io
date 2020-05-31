@@ -1,70 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wancnoffical.github.io</id>
+    <id>https://acfg.github.io</id>
     <title>WanCn的博客</title>
-    <updated>2020-05-17T06:19:22.892Z</updated>
+    <updated>2020-05-31T09:47:11.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wancnoffical.github.io"/>
-    <link rel="self" href="https://wancnoffical.github.io/atom.xml"/>
+    <link rel="alternate" href="https://acfg.github.io"/>
+    <link rel="self" href="https://acfg.github.io/atom.xml"/>
     <subtitle>分享·心得·真实</subtitle>
-    <logo>https://wancnoffical.github.io/images/avatar.png</logo>
-    <icon>https://wancnoffical.github.io/favicon.ico</icon>
+    <logo>https://acfg.github.io/images/avatar.png</logo>
+    <icon>https://acfg.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, WanCn的博客</rights>
-    <entry>
-        <title type="html"><![CDATA[设计：漂浮海上的度假别墅！澳洲简约木系阁楼旅宿]]></title>
-        <id>https://wancnoffical.github.io/post/she-ji-piao-fu-hai-shang-de-du-jia-bie-shu-ao-zhou-jian-yue-mu-xi-ge-lou-lu-su/</id>
-        <link href="https://wancnoffical.github.io/post/she-ji-piao-fu-hai-shang-de-du-jia-bie-shu-ao-zhou-jian-yue-mu-xi-ge-lou-lu-su/">
-        </link>
-        <updated>2020-05-17T05:24:48.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://wancnoffical.github.io/post-images/1589693195662.jpeg" alt="" loading="lazy"><br>
-有多久没有远离纷扰喧嚣，前往大自然舒展身心？澳洲建筑设计师Chuck Anderson操刀的奢华度假小屋Lilypad Floating Villa，独自漂浮于观光胜地棕榈滩，四周皆环绕壮阔无际的湛蓝海景，予以旅人与世隔绝的休憩天地<br>
-<img src="https://wancnoffical.github.io/post-images/1589693255233.jpeg" alt="" loading="lazy"><br>
-整栋别墅采用木质筑起双层斜顶结构，基座延伸出木甲板拉近大自然的距离，步出即可眺望蓝海与照拂日光，享受划船、戏水与钓鱼乐趣，并设置太阳能发电兼具绿能环保。<br>
-<img src="https://wancnoffical.github.io/post-images/1589693313225.jpeg" alt="" loading="lazy"><br>
-内外以折叠玻璃滑门无阻串连，以挑高手法敞开简洁匀净的舒心氛围，使开放式的客厅、餐厨能浸润日光，二楼则巧妙切割为睡寝卧房，旅宿亦提供主厨特制餐点与SPA服务，入住一晚约为人民币7500起。<br>
-<img src="https://wancnoffical.github.io/post-images/1589693377748.jpeg" alt="" loading="lazy"><br>
-<img src="https://wancnoffical.github.io/post-images/1589693386420.jpeg" alt="" loading="lazy"><br>
-<img src="https://wancnoffical.github.io/post-images/1589693393050.jpeg" alt="" loading="lazy"><br>
-<img src="https://wancnoffical.github.io/post-images/1589693398534.jpeg" alt="" loading="lazy"><br>
-<img src="https://wancnoffical.github.io/post-images/1589693405985.jpeg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网易云热评分享2020.5.17]]></title>
-        <id>https://wancnoffical.github.io/post/wang-yi-yun-re-ping-fen-xiang-2020517/</id>
-        <link href="https://wancnoffical.github.io/post/wang-yi-yun-re-ping-fen-xiang-2020517/">
-        </link>
-        <updated>2020-05-17T02:47:04.000Z</updated>
-        <content type="html"><![CDATA[<p>音乐：When your lips  are so close<br>
-<img src="https://wancnoffical.github.io/post-images/1589683718958.JPG" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紧急通知⚠️]]></title>
-        <id>https://wancnoffical.github.io/post/jin-ji-tong-zhi/</id>
-        <link href="https://wancnoffical.github.io/post/jin-ji-tong-zhi/">
-        </link>
-        <updated>2020-05-16T13:37:28.000Z</updated>
-        <content type="html"><![CDATA[<p>因为系统的原因，此网站之前的所有资料全部消失，我们正在全力补救中，感谢支持！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://wancnoffical.github.io/post/about/</id>
-        <link href="https://wancnoffical.github.io/post/about/">
-        </link>
-        <updated>2020-05-16T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到我的博客网站呀，很高兴遇见你！🤝</p>
-</blockquote>
-<h2 id="关于本站">🏠 关于本站</h2>
-<p>一个分享好物和翻译心得的网站</p>
-<h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<p>一个TED简体中文/芬兰语的B站小UP</p>
-<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
-<p>翻译，写博客</p>
-<h2 id="联系我呀">📬 联系我呀</h2>
-<p>欢迎你联系我的邮箱wancnself@gmail.com也欢迎你关注我的B站-努力的点赞君Wan</p>
-]]></content>
-    </entry>
 </feed>

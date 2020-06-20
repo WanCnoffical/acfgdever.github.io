@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wancnoffical.github.io</id>
     <title>A中文字幕组官方社区</title>
-    <updated>2020-06-20T15:17:25.250Z</updated>
+    <updated>2020-06-20T15:23:39.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wancnoffical.github.io"/>
     <link rel="self" href="https://wancnoffical.github.io/atom.xml"/>
@@ -11,11 +11,12 @@
     <icon>https://wancnoffical.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, A中文字幕组官方社区</rights>
     <entry>
-        <title type="html"><![CDATA[hi]]></title>
-        <id>https://wancnoffical.github.io/hi/</id>
-        <link href="https://wancnoffical.github.io/hi/">
+        <title type="html"><![CDATA[冰河世纪的巨人]]></title>
+        <id>https://wancnoffical.github.io/binheshijdejuren/</id>
+        <link href="https://wancnoffical.github.io/binheshijdejuren/">
         </link>
-        <updated>2020-06-20T15:05:45.000Z</updated>
-        <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=47598514&bvid=BV1hb411x7B6&cid=83372001&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+        <updated>2020-06-20T15:19:19.000Z</updated>
+        <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=413267802&bvid=BV1LV411C76U&cid=196437298&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+]]></content>
     </entry>
 </feed>

@@ -1,9 +1,11 @@
+
+<!DOCTYPE html>
 <html>
   <head>
     
 <meta charset="utf-8" >
 
-<title>A中文字幕组官方社区</title>
+<title>冰河世纪的巨人 | A中文字幕组官方社区</title>
 <meta name="description" content="ACFG">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -14,6 +16,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://wancnoffical.github.io/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -75,32 +83,35 @@
 </transition>
 
 
-        <div class="content-container">
+      <div class="content-container">
+        <div class="post-detail">
           
+            <div class="feature-container" style="background-image: url('https://wancnoffical.github.io/post-images/binheshijdejuren.png')">
+            </div>
           
+          <h2 class="post-title">冰河世纪的巨人</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2020-06-20</span>
+            
+          </div>
+          <div class="post-content">
+            <iframe src="//player.bilibili.com/player.html?aid=413267802&bvid=BV1LV411C76U&cid=196437298&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-<div class="archives-container">
-  
-    <h2 class="year">2020</h2>
-    
-      
-        <article class="post">
-          <a href="https://wancnoffical.github.io/binheshijdejuren/">
-            <h2 class="post-title">
-              冰河世纪的巨人
-              <small>2020-06-20</small>
-            </h2>
-          </a>
-        </article>
-      
-    
-  
-</div>
-
-
+          </div>
         </div>
 
-        <div class="site-footer">
+        
+      </div>
+
+      
+        
+          <div id="gitalk-container"></div>
+        
+
+        
+      
+
+      <div class="site-footer">
   <div class="slogan">ACFG</div>
   <div class="social-container">
     
@@ -119,8 +130,8 @@
 </div>
 
 
-      </div>
-      <script type="application/javascript">
+    </div>
+    <script type="application/javascript">
 
 hljs.initHighlightingOnLoad()
 
@@ -135,7 +146,29 @@ var app = new Vue({
 
 
 
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
 
-    </div>
+      var gitalk = new Gitalk({
+        clientID: 'e5ed0d5f8c4a85060e7c',
+        clientSecret: 'fa2c6da6850e2acc71b355ebf5a9f19ab2a70127',
+        repo: 'BLOG',
+        owner: 'WanCnoffical',
+        admin: ['WanCnoffical'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
   </body>
 </html>

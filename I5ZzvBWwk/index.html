@@ -1,22 +1,98 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wancnoffical.github.io</id>
-    <title>A中文字幕组官方社区</title>
-    <updated>2020-06-21T06:00:31.037Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wancnoffical.github.io"/>
-    <link rel="self" href="https://wancnoffical.github.io/atom.xml"/>
-    <subtitle>ACFG</subtitle>
-    <logo>https://wancnoffical.github.io/images/avatar.png</logo>
-    <icon>https://wancnoffical.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, A中文字幕组官方社区</rights>
-    <entry>
-        <title type="html"><![CDATA[TEST]]></title>
-        <id>https://wancnoffical.github.io/I5ZzvBWwk/</id>
-        <link href="https://wancnoffical.github.io/I5ZzvBWwk/">
-        </link>
-        <updated>2020-06-21T06:00:07.000Z</updated>
-        <content type="html"><![CDATA[<html lang="zh-cn" dir="ltr"><head data-info="f:msnallexpusers,muidflt260cf,muidflt298cf,muidflt301cf,platagyedge2cf,starthz3cf,audexhz3cf,moneyhz1cf,artgly4cf,vebudumu04302020,bbh20200521msncf;" data-client-settings="{&quot;env&quot;:&quot;prod&quot;, &quot;aid&quot;:&quot;37666EEBDB504BBABFB7AFFD4C46C5C7&quot;, &quot;static_page&quot;:&quot;false&quot;, &quot;queryparams&quot;:&quot;?locale=zh-Hans-AU&amp;dsp=1&amp;sp=Bing&amp;startpage=1&quot;, &quot;apptype&quot;:&quot;edgeChromium&quot;, &quot;cbid&quot;:&quot;1&quot;, &quot;pagetype&quot;:&quot;dhp&quot;, &quot;configRootUrl&quot;:&quot;https://assets.msn.com/config/v1/&quot;, &quot;configIndexDocId&quot;:&quot;cms/api/amp/experienceConfigIndex/BBViXsS&quot;, &quot;feedBaseDomain&quot;:&quot;&quot;, &quot;deviceFormFactor&quot;:&quot;desktop&quot;, &quot;pageGenTime&quot;:&quot;2020-06-21T05:46:26Z&quot;, &quot;featureFlags&quot;:{}, &quot;market&quot;:{}, &quot;locale&quot;:{&quot;language&quot;:&quot;zh&quot;, &quot;script&quot;:&quot;&quot;, &quot;market&quot;:&quot;cn&quot;}, &quot;v&quot;:&quot;20200619.151&quot;, &quot;os&quot;:&quot;macos&quot;, &quot;browser&quot;:{&quot;browserType&quot;:&quot;edgeChromium&quot;, &quot;version&quot;:&quot;83&quot;, &quot;ismobile&quot;:&quot;false&quot;}, &quot;domain&quot;:&quot;ntp.msn.cn&quot;, &quot;geo_country&quot;:&quot;CN&quot;, &quot;geo_countryname&quot;:&quot;China&quot;, &quot;geo_subdivision&quot;:&quot;Shanghai&quot;, &quot;geo_zip&quot;:&quot;&quot;, &quot;geo_city&quot;:&quot;Songjiang District&quot;, &quot;geo_lat&quot;:&quot;31.0324&quot;, &quot;geo_long&quot;:&quot;121.227&quot;}">
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+<meta charset="utf-8" >
+
+<title>TEST | A中文字幕组官方社区</title>
+<meta name="description" content="ACFG">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://wancnoffical.github.io/favicon.ico?v=1592719228507">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="https://wancnoffical.github.io/styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
+
+
+  </head>
+  <body>
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://wancnoffical.github.io">
+        <img class="avatar" src="https://wancnoffical.github.io/images/avatar.png?v=1592719228507" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://wancnoffical.github.io">
+        <h1 class="site-title">A中文字幕组官方社区</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+        
+          <a href="/" class="menu purple-link">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="menu purple-link">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="menu purple-link">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="menu purple-link">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">TEST</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2020-06-21</span>
+            
+          </div>
+          <div class="post-content">
+            <html lang="zh-cn" dir="ltr"><head data-info="f:msnallexpusers,muidflt260cf,muidflt298cf,muidflt301cf,platagyedge2cf,starthz3cf,audexhz3cf,moneyhz1cf,artgly4cf,vebudumu04302020,bbh20200521msncf;" data-client-settings="{&quot;env&quot;:&quot;prod&quot;, &quot;aid&quot;:&quot;37666EEBDB504BBABFB7AFFD4C46C5C7&quot;, &quot;static_page&quot;:&quot;false&quot;, &quot;queryparams&quot;:&quot;?locale=zh-Hans-AU&amp;dsp=1&amp;sp=Bing&amp;startpage=1&quot;, &quot;apptype&quot;:&quot;edgeChromium&quot;, &quot;cbid&quot;:&quot;1&quot;, &quot;pagetype&quot;:&quot;dhp&quot;, &quot;configRootUrl&quot;:&quot;https://assets.msn.com/config/v1/&quot;, &quot;configIndexDocId&quot;:&quot;cms/api/amp/experienceConfigIndex/BBViXsS&quot;, &quot;feedBaseDomain&quot;:&quot;&quot;, &quot;deviceFormFactor&quot;:&quot;desktop&quot;, &quot;pageGenTime&quot;:&quot;2020-06-21T05:46:26Z&quot;, &quot;featureFlags&quot;:{}, &quot;market&quot;:{}, &quot;locale&quot;:{&quot;language&quot;:&quot;zh&quot;, &quot;script&quot;:&quot;&quot;, &quot;market&quot;:&quot;cn&quot;}, &quot;v&quot;:&quot;20200619.151&quot;, &quot;os&quot;:&quot;macos&quot;, &quot;browser&quot;:{&quot;browserType&quot;:&quot;edgeChromium&quot;, &quot;version&quot;:&quot;83&quot;, &quot;ismobile&quot;:&quot;false&quot;}, &quot;domain&quot;:&quot;ntp.msn.cn&quot;, &quot;geo_country&quot;:&quot;CN&quot;, &quot;geo_countryname&quot;:&quot;China&quot;, &quot;geo_subdivision&quot;:&quot;Shanghai&quot;, &quot;geo_zip&quot;:&quot;&quot;, &quot;geo_city&quot;:&quot;Songjiang District&quot;, &quot;geo_lat&quot;:&quot;31.0324&quot;, &quot;geo_long&quot;:&quot;121.227&quot;}">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title></title>
@@ -5360,15 +5436,87 @@ font-display: swap;<br>
 <script src="https://assets.msn.cn/bundles/v1/edgeChromium/latest/common.21414552b08ae3e32e3b.js" type="text/javascript" onerror="onErrorHandler(this.src)" nonce="" async="" crossorigin="anonymous"></script>
 <pre><code>&lt;script src=&quot;https://assets.msn.cn/bundles/v1/edgeChromium/latest/experience.2955c26315fe0fa91e31.js&quot; type=&quot;text/javascript&quot; onerror=&quot;onErrorHandler(this.src)&quot; nonce=&quot;&quot; async=&quot;&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
 </code></pre>
-</body></html>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冰河世纪的巨人]]></title>
-        <id>https://wancnoffical.github.io/binheshijdejuren/</id>
-        <link href="https://wancnoffical.github.io/binheshijdejuren/">
-        </link>
-        <updated>2020-06-20T15:19:19.000Z</updated>
-        <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=413267802&bvid=BV1LV411C76U&cid=196437298&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-]]></content>
-    </entry>
-</feed>
+</body></html>
+          </div>
+        </div>
+
+        
+          <div class="next-post">
+            <a class="purple-link" href="https://wancnoffical.github.io/binheshijdejuren/">
+              <h3 class="post-title">
+                下一篇：冰河世纪的巨人
+              </h3>
+            </a>
+          </div>
+          
+      </div>
+
+      
+        
+          <div id="gitalk-container"></div>
+        
+
+        
+      
+
+      <div class="site-footer">
+  <div class="slogan">ACFG</div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+  Powered by ACFG | <a class="rss" href="https://wancnoffical.github.io/atom.xml" target="_blank">RSS</a>
+</div>
+
+
+    </div>
+    <script type="application/javascript">
+
+hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'e5ed0d5f8c4a85060e7c',
+        clientSecret: 'fa2c6da6850e2acc71b355ebf5a9f19ab2a70127',
+        repo: 'BLOG',
+        owner: 'WanCnoffical',
+        admin: ['WanCnoffical'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>

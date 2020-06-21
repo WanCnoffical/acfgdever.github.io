@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wancnoffical.github.io</id>
     <title>A中文字幕组官方社区</title>
-    <updated>2020-06-21T07:35:37.439Z</updated>
+    <updated>2020-06-21T07:37:12.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wancnoffical.github.io"/>
     <link rel="self" href="https://wancnoffical.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://wancnoffical.github.io/GTJTJqpY4/">
         </link>
         <updated>2020-06-21T07:33:59.000Z</updated>
-        <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=81316663&bvid=BV1yJ41187D5&cid=139160876&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"width="95%" height="450"></iframe>]]></content>
+        <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=81316663&bvid=BV1yJ41187D5&cid=139160876&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"width="100%" height="1080"></iframe>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[to test bilbil]]></title>

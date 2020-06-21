@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wancnoffical.github.io</id>
     <title>A中文字幕组官方社区</title>
-    <updated>2020-06-21T06:00:31.037Z</updated>
+    <updated>2020-06-21T06:01:31.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wancnoffical.github.io"/>
     <link rel="self" href="https://wancnoffical.github.io/atom.xml"/>
@@ -10,6 +10,401 @@
     <logo>https://wancnoffical.github.io/images/avatar.png</logo>
     <icon>https://wancnoffical.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, A中文字幕组官方社区</rights>
+    <entry>
+        <title type="html"><![CDATA[TEST]]></title>
+        <id>https://wancnoffical.github.io/7zhjrb202/</id>
+        <link href="https://wancnoffical.github.io/7zhjrb202/">
+        </link>
+        <updated>2020-06-21T06:01:15.000Z</updated>
+        <content type="html"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>MacWk - 最近更新</title>
+        <link>https://www.macwk.com/rss.xml</link>
+        <description>每日更新精心测试过的Mac精品软件</description>
+        <lastBuildDate>Sun, 21 Jun 2020 06:00:28 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/nuxt-community/feed-module</generator>
+        <category>MacWk.com</category>
+        <item>
+            <title><![CDATA[Disk Expert - 3.0 (可视化磁盘清理工具)]]]]><![CDATA[></title>
+            <link>https://www.macwk.com/soft/disk-expert</link>
+            <guid>https://www.macwk.com/soft/disk-expert</guid>
+            <pubDate>Sat, 20 Jun 2020 23:28:14 GMT</pubDate>
+            <description><![CDATA[<div style="text-align: center;margin-bottom: 20px;">
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/h5bc3b7zxdwgw4ww?key=macwk-small-crop" /> 
+</div>
+<p>大小: 12.1 MB</p>
+<p>语言: 英文</p>
+<p>版本: macOS 10.12 或更高版本</p>
+<p>分类: 系统清理</p>
+Disk Expert 是一款可视化Mac磁盘文件清理工具。Disk Expert 以可视化的图表形式显示您的磁盘空间使用情况，通过点击图表上的扇区可以快速查看对应目录下的文件列表，默认按文件大小排序，帮助您更快的查找清理大文件。]]]]><![CDATA[></description>
+            <enclosure url="https://api.macwk.com/api/assets/h5bc3b7zxdwgw4ww?key=macwk-small-crop">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[App Cleaner & Uninstaller - Pro 7.0 (应用深度清理卸载工具)]]]]><![CDATA[></title>
+            <link>https://www.macwk.com/soft/app-cleaner-and-uninstaller-pro</link>
+            <guid>https://www.macwk.com/soft/app-cleaner-and-uninstaller-pro</guid>
+            <pubDate>Sat, 20 Jun 2020 23:23:12 GMT</pubDate>
+            <description><![CDATA[<div style="text-align: center;margin-bottom: 20px;">
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/oorlut2ytfk0wwcc?key=macwk-small-crop" /> 
+</div>
+<p>大小: 24.1 MB</p>
+<p>语言: 中文</p>
+<p>版本: macOS 10.12 或更高版本</p>
+<p>分类: 系统清理</p>
+App Cleaner & Uninstaller Pro 是一款mac应用清理、mac应用卸载工具，它可以帮你深度清理应用残留，完全卸载mac应用程序。]]]]><![CDATA[></description>
+            <enclosure url="https://api.macwk.com/api/assets/oorlut2ytfk0wwcc?key=macwk-small-crop">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[MacCleaner - PRO 2.0 (系统优化清理套件)]]]]><![CDATA[></title>
+            <link>https://www.macwk.com/soft/maccleaner-pro</link>
+            <guid>https://www.macwk.com/soft/maccleaner-pro</guid>
+            <pubDate>Sat, 20 Jun 2020 23:14:24 GMT</pubDate>
+            <description><![CDATA[<div style="text-align: center;margin-bottom: 20px;">
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/sdiss43qb4gc40ck?key=macwk-small-crop" /> 
+</div>
+<p>大小: 73.3 MB</p>
+<p>语言: 英文</p>
+<p>版本: macOS 10.12 或更高版本</p>
+<p>分类: 系统清理,系统优化</p>
+MacCleaner PRO 是一款mac系统优化清理套件，包含（App Cleaner & Uninstaller、Memory Cleaner、Funter、Duplicate File Remover、Disk Expert），特别是mac应用卸载工具（App Cleaner & Uninstaller），小编觉得比 CleanMyMac 卸载要干净。]]]]><![CDATA[></description>
+            <enclosure url="https://api.macwk.com/api/assets/sdiss43qb4gc40ck?key=macwk-small-crop">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Xliff Editor - 2.8.1 (好用的xliff编辑器)]]]]><![CDATA[></title>
+            <link>https://www.macwk.com/soft/xliff-editor</link>
+            <guid>https://www.macwk.com/soft/xliff-editor</guid>
+            <pubDate>Sat, 20 Jun 2020 22:17:09 GMT</pubDate>
+            <description><![CDATA[<div style="text-align: center;margin-bottom: 20px;">
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/rvwhcwan58gwgckg?key=macwk-small-crop" /> 
+</div>
+<p>大小: 7.8 MB</p>
+<p>语言: 英文</p>
+<p>版本: macOS 10.12 或更高版本</p>
+<p>分类: 文本处理,开发辅助</p>
+Xliff Editor 是一款非常好用的 mac xiff编辑器，使用原生macOS代码，小巧轻便，通过强大的模糊搜索，查找本地化字符串非常容易，甚至添加了对SDL Trados文件格式的读取支持。你如果进行软件汉化需要编辑string之类的文件，那它一定是比 xcode 好用的本地化翻译工具！]]]]><![CDATA[></description>
+            <enclosure url="https://api.macwk.com/api/assets/rvwhcwan58gwgckg?key=macwk-small-crop">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[iCollections - 6.5 (65015) (桌面整理分组神器)]]]]><![CDATA[></title>
+            <link>https://www.macwk.com/soft/icollections</link>
+            <guid>https://www.macwk.com/soft/icollections</guid>
+            <pubDate>Sat, 20 Jun 2020 22:15:52 GMT</pubDate>
+            <description><![CDATA[<div style="text-align: center;margin-bottom: 20px;">
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/efb3ygcgwe0wgsw0?key=macwk-small-crop" /> 
+</div>
+<p>大小: 20.4 MB</p>
+<p>语言: 英文</p>
+<p>版本: macOS 10.12 或更高版本</p>
+<p>分类: 系统增强,效率时间</p>
+iCollections 是一款Mac桌面整理神器，iCollections可以进行：桌面图标整理、桌面分组组织管理、添加桌面小工具、添加桌面日历、添加任务管理、添加废纸篓到桌面、添加网页小部件到桌面等，可以对它们进行样式调整，比如颜色，透明度等。很好用，推荐！]]]]><![CDATA[></description>
+            <enclosure url="https://api.macwk.com/api/assets/efb3ygcgwe0wgsw0?key=macwk-small-crop">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Remote Desktop - Beta 10.4.0 (1804) (微软windows远程连接工具)]]]]><![CDATA[></title>
+            <link>https://www.macwk.com/soft/microsoft-remote-desktop</link>
+            <guid>https://www.macwk.com/soft/microsoft-remote-desktop</guid>
+            <pubDate>Sat, 20 Jun 2020 22:13:52 GMT</pubDate>
+            <description><![CDATA[<div style="text-align: center;margin-bottom: 20px;">
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/2nxsflbfeq68g0wk?key=macwk-small-crop" /> 
+</div>
+<p>大小: 27.9 MB</p>
+<p>语言: 英文</p>
+<p>版本: macOS 10.12 或更高版本</p>
+<p>分类: 远程控制</p>
+Microsoft Remote Desktop for  Mac 版是一款用于macOS系统远程连接windows桌面服务器的工具。可以帮你快速连接windows桌面，windows服务器。]]]]><![CDATA[></description>
+            <enclosure url="https://api.macwk.com/api/assets/2nxsflbfeq68g0wk?key=macwk-small-crop">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Araxis Merge - Pro 2020.5400 (文件夹/文件比较合并神器)]]]]><![CDATA[></title>
+            <link>https://www.macwk.com/soft/araxis-merge</link>
+            <guid>https://www.macwk.com/soft/araxis-merge</guid>
+            <pubDate>Sat, 20 Jun 2020 22:12:35 GMT</pubDate>
+            <description><![CDATA[<div style="text-align: center;margin-bottom: 20px;">
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/pdshtmz54cgwkk08?key=macwk-small-crop" /> 
+</div>
+<p>大小: 62.6 MB</p>
+<p>语言: 英文</p>
+<p>版本: macOS 10.13 或更高版本</p>
+<p>分类: 办公软件,开发辅助</p>
+Araxis Merge Pro 2020 是一款超强的文件/文件夹对比、合并、同步工具。除了支持对常规文件进行对比外，还支持 Word、Excel、ODF、PDF、RTF、图片、二进制文件等文件比较合并。Pro 版本支持三向比较和自动合并功能，方便地比较和合并整个文件夹树，可以直接访问SCM（版本控制）系统，对特定系统的直接存储库访问。]]]]><![CDATA[></description>
+            <enclosure url="https://api.macwk.com/api/assets/pdshtmz54cgwkk08?key=macwk-small-crop">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Duplicate File Finder - Pro 6.7.2 (重复文件清理工具)]]]]><![CDATA[></title>
+            <link>https://www.macwk.com/soft/duplicate-file-finder-pro</link>
+            <guid>https://www.macwk.com/soft/duplicate-file-finder-pro</guid>
+            <pubDate>Sat, 20 Jun 2020 22:07:06 GMT</pubDate>
+            <description><![CDATA[<div style="text-align: center;margin-bottom: 20px;">
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/d1efvqkvuk0s0gsw?key=macwk-small-crop" /> 
+</div>
+<p>大小: 18.2 MB</p>
+<p>语言: 英文</p>
+<p>版本: macOS 10.12 或更高版本</p>
+<p>分类: 系统优化,系统增强</p>
+Duplicate File Finder Pro 是一款专业的重复文件查找及清理工具，Macbook现在都是固态盘，但是大容量的价格贵的离谱，因此很多网友会选择买小一点容量的，但是会发现硬盘很快就没有空间了，需要定期清理硬盘垃圾文件和清理硬盘重复文件，如果你是在寻找这样一款工具的话，这款Duplicate File Finder Pro可以帮到你，它可以快速查找和清理无用多余的重复文件并且删除它们。]]]]><![CDATA[></description>
+            <enclosure url="https://api.macwk.com/api/assets/d1efvqkvuk0s0gsw?key=macwk-small-crop">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[ExactScan - Pro 20.6.12 (文档扫描及扫描仪驱动程序)]]]]><![CDATA[></title>
+            <link>https://www.macwk.com/soft/exactscan</link>
+            <guid>https://www.macwk.com/soft/exactscan</guid>
+            <pubDate>Sat, 20 Jun 2020 22:06:12 GMT</pubDate>
+            <description><![CDATA[<div style="text-align: center;margin-bottom: 20px;">
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/hiwj575gmjkg00g4?key=macwk-small-crop" /> 
+</div>
+<p>大小: 21.4 MB</p>
+<p>语言: 中文</p>
+<p>版本: macOS 10.12 或更高版本</p>
+<p>分类: 系统增强,办公软件</p>
+ExactScan Pro 是一种适用于Mac扫描仪驱动程序，支持500多种专业扫描仪。支持TWAIN，可以将不同的扫描仪与TWAIN驱动程序一起使用 。在ExactScan的帮助下实现无纸化。快速扫描，归档，排序，存档和查找您的文档。支持：纸张尺寸检测（自动裁切）、偏斜校正（去歪斜）、自动黑白优化、空白页检测、光学字符识别OCR（可搜索PDF）、自动旋转、全自动存储格式、简单的PDF编辑、高速扫描（每分可达100页）、批量处理、条形码识别、AppleScript脚本支持。支持的格式
+PDF，TIFF，GIF，PCX，JPEG，JPEG-2000，BMP，PNG，PNM，RTF，HTML，TXT。需要注意的是，小编实测OCR功能不支持中文。]]]]><![CDATA[></description>
+            <enclosure url="https://api.macwk.com/api/assets/hiwj575gmjkg00g4?key=macwk-small-crop">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Valentina Studio - Pro 10.4.6 (专业的多数据库管理软件)]]]]><![CDATA[></title>
+            <link>https://www.macwk.com/soft/valentina-studio</link>
+            <guid>https://www.macwk.com/soft/valentina-studio</guid>
+            <pubDate>Sat, 20 Jun 2020 22:05:18 GMT</pubDate>
+            <description><![CDATA[<div style="text-align: center;margin-bottom: 20px;">
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/hmg925ooke0wsocg?key=macwk-small-crop" /> 
+</div>
+<p>大小: 78.2 MB</p>
+<p>语言: 英文</p>
+<p>版本: macOS 10.12 或更高版本</p>
+<p>分类: 开发辅助</p>
+Valentina Studio Pro 是一款强大的可视化mac数据库管理工具，支持SQLite，MSSQL Server，MariaDB，mySQL，PostgreSQL和Valentina数据库管理。功能很强大，Apple Store 内购需要¥1,298.00大洋。]]]]><![CDATA[></description>
+            <enclosure url="https://api.macwk.com/api/assets/hmg925ooke0wsocg?key=macwk-small-crop">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Amadeus - Pro 2.8.4 (2501) (多音轨音频编辑器)]]]]><![CDATA[></title>
+            <link>https://www.macwk.com/soft/amadeus</link>
+            <guid>https://www.macwk.com/soft/amadeus</guid>
+            <pubDate>Sat, 20 Jun 2020 22:04:16 GMT</pubDate>
+            <description><![CDATA[<div style="text-align: center;margin-bottom: 20px;">
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/9hg082403mccsoo8?key=macwk-small-crop" /> 
+</div>
+<p>大小: 20.6 MB</p>
+<p>语言: 中文</p>
+<p>版本: macOS 10.12 或更高版本</p>
+<p>分类: 音频编辑</p>
+Amadeus Pro 是一款功能强大的多轨音频编辑器，支持多种格式，包括MP3，AAC，Ogg Vorbis，Apple Lossless，AIFF，Wave等。每个音轨的音量和声像可以相互独立地进行调整。每个音轨可以分为多个音频片段，可以轻松地相互独立拖动。此外，音频单元可以实时应用于各个轨道，支持批量编辑！]]]]><![CDATA[></description>
+            <enclosure url="https://api.macwk.com/api/assets/9hg082403mccsoo8?key=macwk-small-crop">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[uTools - 1.1.1 (你的生产力工具集)]]]]><![CDATA[></title>
+            <link>https://www.macwk.com/soft/utools</link>
+            <guid>https://www.macwk.com/soft/utools</guid>
+            <pubDate>Sat, 20 Jun 2020 05:36:28 GMT</pubDate>
+            <description><![CDATA[<div style="text-align: center;margin-bottom: 20px;">
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/p1hvkx4kpnkkkss8?key=macwk-small-crop" /> 
+</div>
+<p>大小: 79.6 MB</p>
+<p>语言: 中文</p>
+<p>版本: macOS 10.12 或更高版本</p>
+<p>分类: 系统增强,效率时间,开发辅助</p>
+uTools 是一个极简、插件化、跨平台的现代桌面软件。通过自由选配丰富的插件，打造你得心应手的工具集合。当你熟悉它后，能够为你节约大量时间，让你可以更加专注地改变世界。]]]]><![CDATA[></description>
+            <enclosure url="https://api.macwk.com/api/assets/p1hvkx4kpnkkkss8?key=macwk-small-crop">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[AnyTrans for IOS - 8.7.0 (20200616) (好用的iPhone管理工具)]]]]><![CDATA[></title>
+            <link>https://www.macwk.com/soft/anytrans-for-ios</link>
+            <guid>https://www.macwk.com/soft/anytrans-for-ios</guid>
+            <pubDate>Sat, 20 Jun 2020 02:05:04 GMT</pubDate>
+            <description><![CDATA[<div style="text-align: center;margin-bottom: 20px;">
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/m8dm70hocsgwc0c0?key=macwk-small-crop" /> 
+</div>
+<p>大小: 126.8 MB</p>
+<p>语言: 中文</p>
+<p>版本: macOS 10.12 或更高版本</p>
+<p>分类: 手机管理</p>
+AnyTrans for IOS 2020 是专为Mac系统打造的IOS设备数据传输管理工具，AnyTrans for IOS破解版可以帮您管理您的iPhone，iPad，iPod，甚至iTunes和iCloud内容。是一款替代iTunes的备用工具之一，别外AnyTrans还有AnyTrans for Android，可以在本站搜索下载哦]]]]><![CDATA[></description>
+            <enclosure url="https://api.macwk.com/api/assets/m8dm70hocsgwc0c0?key=macwk-small-crop">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[File Cabinet - Pro 7.9.3 (finder任务栏扩展增强)]]]]><![CDATA[></title>
+            <link>https://www.macwk.com/soft/file-cabinet</link>
+            <guid>https://www.macwk.com/soft/file-cabinet</guid>
+            <pubDate>Sat, 20 Jun 2020 02:03:55 GMT</pubDate>
+            <description><![CDATA[<div style="text-align: center;margin-bottom: 20px;">
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/7l9s0jd0gkw8c444?key=macwk-small-crop" /> 
+</div>
+<p>大小: 19.6 MB</p>
+<p>语言: 英文</p>
+<p>版本: macOS 10.12 或更高版本</p>
+<p>分类: 系统增强,文件管理,效率时间</p>
+File Cabinet Pro 是一款任务栏（菜单栏）finder增强工具，它可以帮你通过点击菜单栏的小图标打开下拉窗口快速访问自定义的常用文件夹，这绝对是一款提高工作效率的神器，再也不用在工作中每次都要打开很多个finder窗口了！]]]]><![CDATA[></description>
+            <enclosure url="https://api.macwk.com/api/assets/7l9s0jd0gkw8c444?key=macwk-small-crop">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Folder Tidy - 2.8.2 (将杂乱的文件进行分组整理)]]]]><![CDATA[></title>
+            <link>https://www.macwk.com/soft/folder-tidy</link>
+            <guid>https://www.macwk.com/soft/folder-tidy</guid>
+            <pubDate>Sat, 20 Jun 2020 02:03:04 GMT</pubDate>
+            <description><![CDATA[<div style="text-align: center;margin-bottom: 20px;">
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/19wnywazimtc0sk0?key=macwk-small-crop" /> 
+</div>
+<p>大小: 12.7 MB</p>
+<p>语言: 英文</p>
+<p>版本: macOS 10.12 或更高版本</p>
+<p>分类: 系统增强,文件管理</p>
+Folder Tidy for  Mac 是一款快速整理文件和文件夹的神器。根据文件类型（jpg/png，演示文稿，PDF，dmg等等）将杂乱无章的文件进行快速归类整理。你也可以创建功能强大的自定义规则，它可以在几秒钟内整理10,000个文件。如果发现整理不是您想要的那样，没问题，只需单击 `Undo Tidy` 按钮，所有内容都将回到原始的位置。]]]]><![CDATA[></description>
+            <enclosure url="https://api.macwk.com/api/assets/19wnywazimtc0sk0?key=macwk-small-crop">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[GrandTotal - 6.1.5.1 (发票模板设计及管理工具)]]]]><![CDATA[></title>
+            <link>https://www.macwk.com/soft/grandtotal</link>
+            <guid>https://www.macwk.com/soft/grandtotal</guid>
+            <pubDate>Sat, 20 Jun 2020 02:02:21 GMT</pubDate>
+            <description><![CDATA[<div style="text-align: center;margin-bottom: 20px;">
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/d0yshuron9c0oog0?key=macwk-small-crop" /> 
+</div>
+<p>大小: 33.3 MB</p>
+<p>语言: 英文</p>
+<p>版本: macOS 10.12 或更高版本</p>
+<p>分类: 办公软件</p>
+GrandTotal 6 是一款mac发票管理软件，您可以快速创建发票和预算，跟踪未付款项目。详细的统计数据及图表展示使您可以洞悉业务的当前状态，并可以与以前的时期进行比较对帐，支持管理多家公司发票。]]]]><![CDATA[></description>
+            <enclosure url="https://api.macwk.com/api/assets/d0yshuron9c0oog0?key=macwk-small-crop">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Dash - 5.1.7 (API文档和代码片段管理)]]]]><![CDATA[></title>
+            <link>https://www.macwk.com/soft/dash</link>
+            <guid>https://www.macwk.com/soft/dash</guid>
+            <pubDate>Fri, 19 Jun 2020 13:06:59 GMT</pubDate>
+            <description><![CDATA[<div style="text-align: center;margin-bottom: 20px;">
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/r96zsgnfzqoos0o4?key=macwk-small-crop" /> 
+</div>
+<p>大小: 19.4 MB</p>
+<p>语言: 英文</p>
+<p>版本: macOS 10.12 或更高版本</p>
+<p>分类: 开发辅助</p>
+Dash for mac 破解版是一款功能强大的API文档浏览器和代码片段管理器，内置了丰富的API文档，多达150多种，可以在线下载各种开发API和文档资料，可以让您集中管理API文档，包括离线下载、搜索、查阅，包括各种主流的编程语言和框架，如Cocos2D, Cocos3D, Corona, CSS, HTML, Java, Objective-C, JavaScript, jQuery, Vue,React等, 不需要在到处下载 API 文档，Dash 已经自动集成了，并支持集成到Webstrom、Xcode、Alfred等软件中，非常的强大！开发者必备的API文档参考工具。]]]]><![CDATA[></description>
+            <enclosure url="https://api.macwk.com/api/assets/r96zsgnfzqoos0o4?key=macwk-small-crop">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[GoodNotes - 5.4.29 (最好的手写笔记应用)]]]]><![CDATA[></title>
+            <link>https://www.macwk.com/soft/goodnotes</link>
+            <guid>https://www.macwk.com/soft/goodnotes</guid>
+            <pubDate>Fri, 19 Jun 2020 08:51:02 GMT</pubDate>
+            <description><![CDATA[<div style="text-align: center;margin-bottom: 20px;">
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/hozok2ta85k4socw?key=macwk-small-crop" /> 
+</div>
+<p>大小: 170.5 MB</p>
+<p>语言: 中文</p>
+<p>版本: macOS 10.15 或更高版本</p>
+<p>分类: 文本处理,办公软件</p>
+GoodNotes 5 是一款非常好用的 Mac 手写记事应用。您可以在 Mac 上创建、导入和编辑文稿，支持导入 PDF 和图像，以在 GoodNotes 中添加注释，通过拖放操作将文稿从 Mac 添加到现有的 GoodNotes 笔记本。
+<h5 id="无纸文稿管理">无纸文稿管理</h5>
+<ul>
+<li>在文件夹中组织文档，创建无限子文件夹</li>
+<li>将最重要的文档、页面和文件夹标记为“收藏夹”，方便快速访问它们</li>
+<li>创建自定义大纲，方便在文稿之间导航</li>
+<li>通过拖放操作将文稿或页面即时导出到 PDF</li>
+</ul>
+<h5 id="随时查看所有笔记">随时查看所有笔记</h5>
+<ul>
+<li>使用 iCloud 将最近的更改同步到您的 iPad、iPhone 和其他 Mac</li>
+<li>在 Mac 上准备文稿，并在其他设备上继续操作</li>
+</ul>
+<h5 id="突破模拟纸张的限制">突破模拟纸张的限制</h5>
+<ul>
+<li>对手写内容进行移动、调整大小、旋转，或者更改颜色</li>
+<li>使用“形状工具”绘制完美的形状和线条</li>
+<li>强大、智能的橡皮擦工具：选择擦除整个笔画或仅仅一部分。将其设为“仅擦除荧光笔痕迹”，让墨水保持完整</li>
+<li>通过现有的超链接，在导入的 PDF 之间导航</li>
+</ul>
+<p>]]&gt;</description><br>
+<enclosure url="https://api.macwk.com/api/assets/hozok2ta85k4socw?key=macwk-small-crop"><br>
+</enclosure><br>
+</item><br>
+<item><br>
+<title><![CDATA[OmniPlayer - 1.2.7 终身VIP版 (全能影音播放器)]]]]><![CDATA[></title><br>
+<link>https://www.macwk.com/soft/omniplayer</link><br>
+<guid>https://www.macwk.com/soft/omniplayer</guid><br>
+<pubDate>Fri, 19 Jun 2020 08:47:44 GMT</pubDate><br>
+<description>&lt;![CDATA[<div style="text-align: center;margin-bottom: 20px;"><br>
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/n82qcazrbuo4k8w4?key=macwk-small-crop" /></p>
+</div>
+<p>大小: 81.6 MB</p>
+<p>语言: 中文</p>
+<p>版本: macOS 10.13 或更高版本</p>
+<p>分类: 视频播放</p>
+OmniPlayer 是一款全能 mac 视频播放器。OmniPlayer 全能播放器几乎支持macOS上所有音频和视频格式的多媒体播放器，它能够通过硬件解码轻松播放各种4K/1080P/720P的高清视频，普通音频和无损音频。同时你也可以通过它丰富的功能方便的控制和调整播放进度/播放列表/视频画面/音轨/字幕/截屏等，OmniPlayer 还支持无线投屏。
+<h5 id="支持的格式">支持的格式：</h5>
+<ul>
+<li>视频: mkv, rmvb, rm, avi, mov, wmv, flv, f4v, f4p, f4a, f4b, swf, mpg, mpeg, mpeg1, mpeg2, m1v, m2v, mpv, mp4, mpeg4, m4v, 3gp, 3gpp, 3g2, 3gp2, m2p, ps, ts, m2ts, mts, mt2s, vob, ogm, ogv, divx, dv, asf, wtv, webm etc.</li>
+<li>音频: flac, ape, m2a, mp1, mp2, mpa, mp3, mpg3, m4a, m4b, wma, wav, wv, xm, aiff, aif, ac3, a52, aac, opus, ogg, oga, mid, midi, mka etc.</li>
+<li>字幕: ass, ssa, srt, idx&amp;sub</li>
+</ul>
+<h5 id="主要功能">主要功能：</h5>
+<ul>
+<li>支持多种音视频类型</li>
+<li>播放本地和远程服务器上(samba/ftp协议)几乎任何格式的音频和视频。</li>
+<li>通过http/https协议播放在线视频和音频。</li>
+<li>直接使用网页地址播放不带广告的Youtube和Vimeo视频。</li>
+<li>播放列表控制：</li>
+<li>自动记录播放的媒体文件到播放列表，且支持退出时自动清空。</li>
+<li>播放/搜索/删除/播放列表中的文件，修改播放顺序。</li>
+<li>支持暂停/恢复/快进/快退/跳转到指定的播放时间。</li>
+<li>停止时自动记录上次播放进度。</li>
+<li>自动隐藏控件来无遮挡地显示纯视频画面.</li>
+<li>支持0.25倍到4倍的倍速播放。</li>
+<li>快速调整窗口大小和视频画面宽高比。</li>
+<li>全方向旋转视频画面。</li>
+<li>调整视频画面的均衡度，包括亮度，对比度，饱和度。</li>
+<li>修改音频延迟时间，保证音画同步。</li>
+<li>选择视频中不同的音轨。</li>
+<li>选择音频播放模式，比如立体声，杜比环绕，耳机等。</li>
+<li>自定义音频均衡器或者选择预定义的均衡器，比如古典, 摇滚, 流行等.</li>
+<li>实时加载不同格式的本地字幕。</li>
+<li>通过视频名称或者哈希值搜索和加载在线字幕，支持大多数的语言。</li>
+<li>实时修改字幕颜色和大小. 修改不同的语言编码来解决乱码问题。</li>
+<li>支持多种格式截屏。</li>
+<li>支持生成最长60秒的GIF动图。</li>
+<li>支持一键导出影片缩略图</li>
+<li>支持DLNA协议无线投屏</li>
+<li>支持Chromecast协议无线投屏]]&gt;</description><br>
+<enclosure url="https://api.macwk.com/api/assets/n82qcazrbuo4k8w4?key=macwk-small-crop"><br>
+</enclosure><br>
+</item><br>
+<item><br>
+<title><![CDATA[Termius - 6.0.1 (209) (最好用的SSH连接客户端)]]]]><![CDATA[></title><br>
+<link>https://www.macwk.com/soft/termius</link><br>
+<guid>https://www.macwk.com/soft/termius</guid><br>
+<pubDate>Fri, 19 Jun 2020 08:35:10 GMT</pubDate><br>
+<description>&lt;![CDATA[<div style="text-align: center;margin-bottom: 20px;"><br>
+<img style="width: 128px; height: 128px" src="https://api.macwk.com/api/assets/m0x5hxw1b5sw4gks?key=macwk-small-crop" /></li>
+</ul>
+</div>
+<p>大小: 86.3 MB</p>
+<p>语言: 英文</p>
+<p>版本: macOS 10.12 或更高版本</p>
+<p>分类: 远程控制,FTP客户端</p>
+Termius Mac破解版是一款非常好用而且漂亮的SSH客户端，能快速远程控制服务器，可以定制自己喜欢的主题，支持FTP/SFTP连接。]]]]><![CDATA[></description>
+            <enclosure url="https://api.macwk.com/api/assets/m0x5hxw1b5sw4gks?key=macwk-small-crop">
+            </enclosure>
+        </item>
+    </channel>
+</rss>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TEST]]></title>
         <id>https://wancnoffical.github.io/I5ZzvBWwk/</id>
